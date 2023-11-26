@@ -5,6 +5,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _"We are all in the gutter, but some of us are looking at the stars ✨🌌"_
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://galleryofcodes.wordpress.com/" target="blank"><img align="center" src="" alt="@nadeeshaani" height="30" width="40" /></a>
+</p>
 
 
