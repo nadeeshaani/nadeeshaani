@@ -7,7 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://galleryofcodes.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nadeeshaani/nadeeshaani/b7e7dcaf7f1386449315bc1f78f7dd484eab16b0/images/wordpress-logo-svgrepo-com.svg" alt="@nadeeshaani" height="30" width="40" /></a>
-</p>
+  https://galleryofcodes.wixsite.com/galleryofcodes
+<!-- <a href="https://galleryofcodes.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nadeeshaani/nadeeshaani/b7e7dcaf7f1386449315bc1f78f7dd484eab16b0/images/wordpress-logo-svgrepo-com.svg" alt="@nadeeshaani" height="30" width="40" /></a>
+</p> -->
+
+
 
 
